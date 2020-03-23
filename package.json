@@ -1,5 +1,5 @@
 {
-  "homepage": "http://dev.whoissahil.github.io/",
+  "homepage": "http://dev.iamsahilsharma.com/",
   "name": "dev.whoissahil.github.io",
   "version": "0.1.0",
   "private": true,
@@ -9,6 +9,7 @@
     "@testing-library/user-event": "^7.1.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-particles-js": "^2.7.1",
     "react-scripts": "3.4.1"
   },
   "scripts": {
@@ -17,7 +18,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build" 
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
